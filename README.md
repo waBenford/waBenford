@@ -8,7 +8,7 @@ I'm first-year Software Engineering student at RMUTL.
 
 * 🌍  I'm based in Chiang mai
 * ✉️  You can contact me at [thanwakongjai@gmail.com](mailto:thanwakongjai@gmail.com)
-* 🧠  I'm learning Coding databases and BackEnd.
+* 🧠  I'm learning coding, databases, and backend development.
 
 ### Skills
 
